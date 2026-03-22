@@ -1,7 +1,7 @@
 
 import './App.css'
-import DaisyNav from './assets/Componant/DaisyNav'
-import NavBar from './assets/NavBar/NavBar'
+import DaisyNav from './assets/Componant/DaisyKhala/DaisyNav'
+import NavBar from './assets/Componant/NavBar/NavBar'
 
 function App() {
 

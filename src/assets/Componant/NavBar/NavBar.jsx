@@ -10,7 +10,7 @@ const navigationData =[
 
 const NavBar = () => {
     const [open, setOpen] = useState()
-    const navLinks = navigationData.map(link => <Link link={link}></Link>)
+    const navLinks = navigationData.map(link => <Link key={link.id} link={link}></Link>)
     return (
         < div className='border-b border-gray-300'>
             <nav className='flex justify-between m-8 '>
