@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "duration": "12 months",
+    "features": [
+      "Gym access",
+      "Locker room",
+      "1 group class/week"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 35,
+    "duration": "24 months",
+    "popular": true,
+    "features": [
+      "Gym access",
+      "Unlimited classes",
+      "Sauna access",
+      "Locker room"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 50,
+    "duration": "36 months",
+    "features": [
+      "24/7 gym access",
+      "Unlimited classes",
+      "Personal trainer",
+      "Sauna & spa",
+      "Nutrition plan"
+    ]
+  }
+]
