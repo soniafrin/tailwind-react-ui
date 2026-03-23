@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Sonia Khatun",
+    "subjects": {
+      "math": 85,
+      "english": 78,
+      "science": 88
+    }
+  },
+  {
+    "id": 2,
+    "name": "James Smith",
+    "subjects": {
+      "math": 72,
+      "english": 80,
+      "science": 75
+    }
+  },
+  {
+    "id": 3,
+    "name": "Aisha Rahman",
+    "subjects": {
+      "math": 90,
+      "english": 85,
+      "science": 92
+    }
+  },
+  {
+    "id": 4,
+    "name": "Liam Johnson",
+    "subjects": {
+      "math": 68,
+      "english": 70,
+      "science": 65
+    }
+  },
+  {
+    "id": 5,
+    "name": "Noah Williams",
+    "subjects": {
+      "math": 88,
+      "english": 82,
+      "science": 86
+    }
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown",
+    "subjects": {
+      "math": 95,
+      "english": 90,
+      "science": 93
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ethan Davis",
+    "subjects": {
+      "math": 76,
+      "english": 74,
+      "science": 78
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sophia Wilson",
+    "subjects": {
+      "math": 89,
+      "english": 91,
+      "science": 87
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mason Taylor",
+    "subjects": {
+      "math": 64,
+      "english": 68,
+      "science": 70
+    }
+  },
+  {
+    "id": 10,
+    "name": "Isabella Martinez",
+    "subjects": {
+      "math": 92,
+      "english": 88,
+      "science": 90
+    }
+  }
+]
